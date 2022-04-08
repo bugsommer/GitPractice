@@ -1,3 +1,3 @@
 # GitPractice
 Let's prectice!
-On git
+On git - fun!
